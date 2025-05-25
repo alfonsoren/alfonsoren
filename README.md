@@ -1,6 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/alfonsoren/alfonsoren/main/banner.png)
 
-
 ## 👋 ¡Hola! Soy Alfonso
 
 🎓 Contador con especialización en finanzas y pasión por el análisis de datos.  
